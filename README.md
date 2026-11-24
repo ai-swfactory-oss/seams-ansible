@@ -1,12 +1,10 @@
 # seams-ansible
 
-The seam for Ansible: a typed TypeScript SDK through which code reaches Ansible, with a fake under `./testing` for tests.
-
-This repository holds only the guarded skeleton so far: `createAnsibleSeam` returns a seam that reports its name, and `./testing` holds a fake of it.
+This repository is retired: the Ansible seam has no successor, and this repository receives no further changes.
 
 ## Packages
 
-- `@ai-swfactory-oss/seams-ansible`: the Ansible seam SDK.
+- `@ai-swfactory-oss/seams-ansible`: retired, with no successor.
 
 ## Licence
 

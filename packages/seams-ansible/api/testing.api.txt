@@ -1,0 +1,1 @@
+createFakeAnsibleSeam: const createFakeAnsibleSeam: (info?: AnsibleSeamInfo) => AnsibleSeam

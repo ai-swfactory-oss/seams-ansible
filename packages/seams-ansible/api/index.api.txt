@@ -1,0 +1,3 @@
+AnsibleSeam: interface AnsibleSeam { readonly info: () => AnsibleSeamInfo; }
+AnsibleSeamInfo: interface AnsibleSeamInfo { readonly name: string; }
+createAnsibleSeam: const createAnsibleSeam: () => AnsibleSeam
